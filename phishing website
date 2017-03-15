@@ -113,41 +113,18 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
 
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-            
-            
-    
-    
+
+
+
+
+
+
+
             
     
     
     
-    
-    
-    
-    
-    
-            
-    
-            
-    
-    
-    
-    
-    
-    
-            
-    
-    
-    
-    
+   
     
     <!--[if lt IE 9]>
 	<script src="/common/resources/DesignPortfolio/SiteThemes/CommonLib/scripts/responsiveTemplate.js" type="text/javascript"></script>
